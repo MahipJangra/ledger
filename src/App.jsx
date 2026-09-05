@@ -98,6 +98,7 @@ export default function App() {
  
   <span className="mt-1 inline-block">
     Designed &amp; developed by Mahip{' '}
+</br>
     <a
       href="https://portfolio-bq8v.onrender.com/"
       target="_blank"
