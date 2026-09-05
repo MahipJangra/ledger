@@ -11,6 +11,8 @@ export const EXPENSE_CATEGORIES = [
 export const INCOME_CATEGORIES = [
   { id: 'salary', label: 'Salary', color: '#1E8E5A' },
   { id: 'fees', label: 'Fees', color: '#14532D' },
+{ id: 'investment', label: 'Investment', color: '#1B2A4A' },
+{ id: 'gift', label: 'Gift', color: '#946B1F' },
   { id: 'other', label: 'Other', color: '#667169' },
 ]
 
