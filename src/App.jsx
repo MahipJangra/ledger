@@ -97,8 +97,8 @@ export default function App() {
       <footer className="max-w-6xl mx-auto px-4 sm:px-6 py-8 text-center text-xs text-ink-soft">
  
   <span className="mt-1 inline-block">
-    Designed &amp; developed by Mahip{' '}
-</br>
+    Designed &amp; developed by Mahip
+<br />
     <a
       href="https://portfolio-bq8v.onrender.com/"
       target="_blank"
