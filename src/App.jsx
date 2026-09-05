@@ -105,7 +105,7 @@ export default function App() {
       rel="noopener noreferrer"
       className="font-medium text-forest hover:underline"
     >
-      Click Here!!!!!!!!!
+      Tap Here!!!!!!!!!
     </a>
   </span>
 </footer>
