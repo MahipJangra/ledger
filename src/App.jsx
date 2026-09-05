@@ -95,8 +95,20 @@ export default function App() {
       </main>
 
       <footer className="max-w-6xl mx-auto px-4 sm:px-6 py-8 text-center text-xs text-ink-soft">
-        Built with React &amp; Tailwind CSS · Data stored locally in your browser
-      </footer>
+  Built with React &amp; Tailwind CSS · Data stored locally in your browser
+  <br />
+  <span className="mt-1 inline-block">
+    Designed &amp; developed by{' '}
+    <a
+      href="https://portfolio-bq8v.onrender.com/"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="font-medium text-forest hover:underline"
+    >
+      Mahip
+    </a>
+  </span>
+</footer>
     </div>
   )
 }
